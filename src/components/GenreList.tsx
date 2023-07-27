@@ -12,7 +12,7 @@ const GenreList = ({onSelectGenre, selectedGenre}:GenreListProps) => {
   if(isLoading) return <Spinner/>
   return (
     <>
-       <Heading fontSize='2xl' marginBottom={3}>Genres</Heading>
+       <Heading fontSize='2xl' marginTop={9} marginBottom={3}>Genres</Heading>
         <List>
           {genres.map(genre => 
             <ListItem key={genre.id} paddingY="5px">
