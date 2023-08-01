@@ -8,6 +8,9 @@ RAWG: https://rawg-cloned.vercel.app/
 
 ![Screenshot 2023-07-27 222401](https://github.com/BilalShah3/RAWG-Clone/assets/110353066/3f2c72ff-96b5-4549-848d-deba1417f5a2)
 
+
+![Screenshot 2023-08-02 021142](https://github.com/BilalShah3/RAWG-Clone/assets/110353066/4223e319-c824-4811-930f-acf20912d852)
+
 ## Getting Started
 
 To get started with RAWG, follow these steps:
