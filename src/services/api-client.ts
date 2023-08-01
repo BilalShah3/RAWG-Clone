@@ -20,7 +20,7 @@ class APIClent<T> {
         this.endpoint = endpoint
     }
 
-    getAll = (config?: AxiosRequestConfig) => 
+    getAll = (config: AxiosRequestConfig) => 
             axiosInstance.get<FetchResponse<T>>(this.endpoint, config )
             .then(res => res.data)
             
