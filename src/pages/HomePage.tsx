@@ -8,7 +8,6 @@ import SortSelector from "../components/SortSelector"
 
 const HomePage = () => {
   return (
-    <>
        <Grid
           templateAreas={{
             base: `"main"`,
@@ -37,7 +36,6 @@ const HomePage = () => {
             <GameGrid/>
           </GridItem>
         </Grid>
-    </>
   )
 }
 
